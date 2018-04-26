@@ -1,0 +1,9 @@
+C:\Users\Kubilay\Desktop\2018\Projeler\C#\ImageInformation\ImageInformation\bin\Debug\ImageInformation.exe.config
+C:\Users\Kubilay\Desktop\2018\Projeler\C#\ImageInformation\ImageInformation\bin\Debug\ImageInformation.exe
+C:\Users\Kubilay\Desktop\2018\Projeler\C#\ImageInformation\ImageInformation\bin\Debug\ImageInformation.pdb
+C:\Users\Kubilay\Desktop\2018\Projeler\C#\ImageInformation\ImageInformation\obj\Debug\ImageInformation.Form1.resources
+C:\Users\Kubilay\Desktop\2018\Projeler\C#\ImageInformation\ImageInformation\obj\Debug\ImageInformation.Properties.Resources.resources
+C:\Users\Kubilay\Desktop\2018\Projeler\C#\ImageInformation\ImageInformation\obj\Debug\ViewImageInPictureBox.csproj.GenerateResource.Cache
+C:\Users\Kubilay\Desktop\2018\Projeler\C#\ImageInformation\ImageInformation\obj\Debug\ViewImageInPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Kubilay\Desktop\2018\Projeler\C#\ImageInformation\ImageInformation\obj\Debug\ImageInformation.exe
+C:\Users\Kubilay\Desktop\2018\Projeler\C#\ImageInformation\ImageInformation\obj\Debug\ImageInformation.pdb
